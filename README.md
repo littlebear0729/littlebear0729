@@ -4,11 +4,9 @@
 
 ## ⏱️ Something to say...
 
-🔭 I’m currently working on python(django) project.
+🔭 I’m currently working on Python(Django) project.
 
-🌱 I’m currently learning JavaScript and Golang.
-
-👯 I’m looking to collaborate on data mining and analysis.
+🌱 I’m currently learning JavaScript/Vue and Golang.
 
 🤔 I’m looking for help with Java and frontend learning.
 
