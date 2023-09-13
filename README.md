@@ -8,7 +8,7 @@ Keep learning!
 
 🔭 I’m currently working on JavaScript/Vue and Golang project.
 
-🤔 I’m looking for job oppourtunity.
+🤔 I’m looking for job opportunity.
 
 💬 Ask me about everything, I am happy to help.
 
