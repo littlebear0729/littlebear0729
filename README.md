@@ -4,12 +4,14 @@
 
 ## ⏱️ Something to say...
 
-🔭 I’m currently working on Python(Django) project.
+Keep learning!
 
-🌱 I’m currently learning JavaScript/Vue and Golang.
+🔭 I’m currently working on JavaScript/Vue and Golang project.
 
-🤔 I’m looking for help with Java and frontend learning.
+🤔 I’m looking for job oppourtunity.
 
 💬 Ask me about everything, I am happy to help.
 
 You can reach me on Telegram: [@littlebear0729](https://t.me/littlebear0729)
+
+Also contact me via email: littlebear0729@protonmail.com
