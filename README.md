@@ -6,11 +6,9 @@
 
 Keep learning!
 
-🔭 I’m currently working on JavaScript/Vue and Golang project.
+🔭 I’m currently working as Java develop. Developing project in Cloud Computing Observability.
 
-🤔 I’m looking for job opportunity.
-
-💬 Ask me about everything, I am happy to help.
+💬 Ask me about everything, I am happy to help. Issue and Pull Requests are welcomed.
 
 You can reach me on Telegram: [@littlebear0729](https://t.me/littlebear0729)
 
