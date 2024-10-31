@@ -6,7 +6,7 @@
 
 Keep learning!
 
-🔭 I’m currently working as Java develop. Developing project in Cloud Computing Observability.
+🔭 I’m currently working as Java backend developer. Developing project in Cloud Computing Observability.
 
 💬 Ask me about everything, I am happy to help. Issue and Pull Requests are welcomed.
 
